@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ```
 let name = "Sulaymaan Ajmal"
-print("Hello World! my name is \(name).")
+print("Hello World, my name is \(name)!")
 ```
 
 - 🔭 I'm currently not working on any projects and am focusing on improving my skills.
