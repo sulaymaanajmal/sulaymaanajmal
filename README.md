@@ -2,7 +2,7 @@
 
 ```
 let name = "Sulaymaan Ajmal"
-console.log("Hello World! My name is",name)
+console.log("Hello World! My name is" ,name)
 ```
 
 - 🔭 I'm currently not working on any projects and am focusing on improving my skills.
